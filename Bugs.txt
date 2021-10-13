@@ -1,0 +1,4 @@
+LA Costumer Care
+Debug version
+Dispath->online sheet
+click any record will produce the bug instead of poping up the window to edit
